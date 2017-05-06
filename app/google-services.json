@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "477153501579",
+    "firebase_url": "https://awarenessapp-20bdd.firebaseio.com",
+    "project_id": "awarenessapp-20bdd",
+    "storage_bucket": "awarenessapp-20bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477153501579:android:be96953f4d44c2f5",
+        "android_client_info": {
+          "package_name": "com.example.android.awarenessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477153501579-7e4vr76b39t0c2b91733g50l8rqk7tan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3QtxpKFcGSQmiRz0DugmS1SebsQiA3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
